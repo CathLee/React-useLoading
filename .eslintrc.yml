@@ -23,5 +23,4 @@ rules:
     - error
     - single
   semi:
-    - error
-    - never
+    - true

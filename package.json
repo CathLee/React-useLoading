@@ -9,6 +9,7 @@
   ],
   "scripts": {
     "build": "npx tsc",
+    "test": "npx jest",
     "prepublish": "npm run build"
   },
   "repository": {
